@@ -17,7 +17,7 @@ Passionate about the intersection of **Artificial Intelligence**, **Machine Lear
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js" />
 
 ### 🖥️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,py,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,nestjs" />
 
 ### 🤖 Machine Learning & AI
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
