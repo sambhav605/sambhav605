@@ -49,10 +49,10 @@ More projects available on my [GitHub](https://github.com/sambhav605?tab=reposit
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sambhav-regmi-350512321/">
-    <!-- <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> -->
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://sambhavregmi.com.np">
-    <!-- <img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/> -->
+    <img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
   </a>
 </p>
 
