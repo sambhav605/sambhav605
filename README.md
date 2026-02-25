@@ -42,7 +42,8 @@ More projects available on my [GitHub](https://github.com/sambhav605?tab=reposit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sambhav605&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sambhav605&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sambhav605&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🌐 Connect with Me
